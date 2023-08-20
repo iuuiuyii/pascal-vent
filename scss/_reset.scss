@@ -1,0 +1,38 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,ol,li {
+    list-style: none;
+}
+
+button {
+    border: none;
+    background: transparent;
+}
+
+input {
+    outline: none;
+    border: none;
+    background: transparent;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+
+body{
+    font-family:"Roboto", sans-serif;
+
+}
